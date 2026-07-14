@@ -1,21 +1,59 @@
-# 💫 About Me:
-Matin 🕶️<br>🌌 Master of cyber shadows & digital stealth<br>🐍 Python coder | 🐧 Linux tinkerer<br>💻 Ethical hacker | 🔍 Vulnerability hunter | 🛡️ Security enthusiast<br>🕵️‍♂️ Network infiltrator | 🐛 Malware whisperer | 🔧 Reverse engineer<br>📚 Lifelong learner, constantly leveling up my skills<br>⚡ Precision, patience & persistence define my code<br>🌑 Silent but deadly. Always unseen.<br><br>"Silence is my signature."
+# Hi there 👋 I'm [Your Name]
 
+**Network & Systems Security Enthusiast | Linux · Windows Server · Virtualization**
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Mating5686&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Mating5686&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mating5686&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mating5686&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+I work across the full infrastructure stack — from scripting automation in Python, to configuring enterprise networks, to managing virtualized server environments and hardening Linux/Windows systems.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Mating5686&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🧰 Skills & Technologies
+
+**Networking & Systems**
+![Network+](https://img.shields.io/badge/CompTIA-Network+-CC2927?style=flat-square)
+![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![MCSA](https://img.shields.io/badge/Microsoft-MCSA-0078D4?style=flat-square&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-LPIC--1-FCC624?style=flat-square&logo=linux&logoColor=black)
+
+**Virtualization**
+![VMware ESXi](https://img.shields.io/badge/VMware-ESXi-607078?style=flat-square&logo=vmware&logoColor=white)
+![KVM](https://img.shields.io/badge/KVM-Virtualization-A42E2B?style=flat-square&logo=linux&logoColor=white)
+
+**Development**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Telegram Bots](https://img.shields.io/badge/Telegram-Bot%20Development-26A5E4?style=flat-square&logo=telegram&logoColor=white)
+![AI-Assisted Dev](https://img.shields.io/badge/AI--Assisted-Development-412991?style=flat-square&logo=openai&logoColor=white)
+
+---
+
+### 📌 What I Do
+
+- 🔧 Design and configure enterprise networks (Cisco routing/switching)
+- 🐧 Administer and harden Linux servers
+- 🪟 Manage Windows Server environments (Active Directory, DNS, DHCP)
+- 🖥️ Build and maintain virtualization infrastructure with ESXi and KVM
+- 🐍 Automate tasks and build tools using Python
+- 🤖 Develop custom Telegram bots for automation and monitoring
+- 🌐 Deploy and manage WordPress-based web infrastructure
+
+---
+
+### 🎓 Certifications
+<!-- Add your real certifications here, e.g.: -->
+- CompTIA Network+
+- Microsoft Certified Solutions Associate (MCSA)
+- LPIC-1 (Linux Professional Institute)
+
+---
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/YOUR-USERNAME)
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact)
