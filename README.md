@@ -65,13 +65,13 @@ I'm building my knowledge through courses, labs, personal projects, and hands-on
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/YOUR-USERNAME)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square\&logo=telegram\&logoColor=white)](https://t.me/YOUR-USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/matin-ghorbani-ir)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square\&logo=telegram\&logoColor=white)](https://t.me/AMGM_ru)
 
 ---
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME\&show_icons=true\&theme=default)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=AMG-ir\&show_icons=true\&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME\&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMG-ir\&layout=compact)
