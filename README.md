@@ -4,7 +4,7 @@
 
 <br>
 
-[![Website](https://img.shields.io/badge/Website-AMGworld.ir-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white)](https://amgworld.ir)
+[![Blog](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://matin-ghorbani.hashnode.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matin-ghorbani-ir)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AMGM_ru)
 
