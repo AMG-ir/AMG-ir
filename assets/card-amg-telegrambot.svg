@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="168" viewBox="0 0 880 168" role="img" aria-label="AMG-TelegramBot">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="878" height="166" rx="20" fill="#0f1b30" stroke="#1e3a5f" stroke-width="2"/>
+  <rect x="1" y="1" width="8" height="166" rx="4" fill="url(#g)"/>
+  <g transform="translate(40,52)">
+    <rect width="60" height="60" rx="15" fill="url(#g)"/>
+    <g fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="11" y="21" width="38" height="28" rx="9"/><circle cx="23" cy="35" r="3.2" fill="#fff"/><circle cx="37" cy="35" r="3.2" fill="#fff"/><path d="M30 21v-9"/><circle cx="30" cy="9" r="3" fill="#fff"/></g>
+  </g>
+  <text x="130" y="60" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" fill="#ffffff">AMG-TelegramBot</text>
+  <text x="130" y="84" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#67e8f9">github.com/AMG-ir/AMG-TelegramBot</text>
+  <text x="130" y="112" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#cbd5e1">A Persian-first, multifunctional Telegram bot: group tools, games, XP</text>
+  <text x="130" y="140" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#cbd5e1">rankings, Hafez fortunes, VIP access, and optional AI chat.</text>
+  <rect x="645" y="28" width="86" height="30" rx="15" fill="#4b8bbe" fill-opacity="0.14" stroke="#4b8bbe" stroke-opacity="0.7" stroke-width="1.2"/>
+  <text x="688.0" y="48" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#f1f5f9">Python</text>
+  <rect x="741" y="28" width="103" height="30" rx="15" fill="#26A5E4" fill-opacity="0.14" stroke="#26A5E4" stroke-opacity="0.7" stroke-width="1.2"/>
+  <text x="792.5" y="48" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#f1f5f9">Telegram</text>
+</svg>
