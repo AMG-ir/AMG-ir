@@ -19,7 +19,7 @@ Currently focused on strengthening my foundations in **network infrastructure, L
 **Currently Learning**
 
 ![Network+](https://img.shields.io/badge/CompTIA-Network%2B-CC2927?style=flat-square)
-![LPIC-1](https://img.shields.io/badge/LPIC--1-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![LPIC-2](https://img.shields.io/badge/LPIC--2-FCC624?style=flat-square\&logo=linux\&logoColor=black)
 ![Cisco](https://img.shields.io/badge/Cisco-CCNA-1BA0D7?style=flat-square\&logo=cisco\&logoColor=white)
 
 **Virtualization**
@@ -48,9 +48,17 @@ Currently focused on strengthening my foundations in **network infrastructure, L
 
 ---
 
+### 📌 Featured Projects
+
+* 📓 [**My-Note**](https://github.com/AMG-ir/My-Note) — A personal technical knowledge base documenting what I study and practice: Linux (LPIC), networking, Cisco, and homelab work.
+* 🤖 [**AMG-TelegramBot**](https://github.com/AMG-ir/AMG-TelegramBot) — A Persian-first, multifunctional Telegram bot built with Python and `python-telegram-bot`: group tools, games, XP rankings, Hafez fortunes, VIP access, and optional AI chat.
+* 🛡️ [**SpamDetectorBot**](https://github.com/AMG-ir/SpamDetectorBot) — A lightweight, rule-based spam detector for incoming project bids: repeated phrases, excessive links, and duplicate text, with JSON output.
+
+---
+
 ### 🎓 Education
 
-**B.Sc. in Computer Engineering**
+**B.Sc. in Computer Engineering (in progress)**
 Islamic Azad University
 
 ---
@@ -65,13 +73,6 @@ I'm building my knowledge through courses, labs, personal projects, and hands-on
 
 ### 📫 Let's Connect
 
+[![Website](https://img.shields.io/badge/Website-AMGworld.ir-0A66C2?style=flat-square\&logo=googlechrome\&logoColor=white)](https://amgworld.ir)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/matin-ghorbani-ir)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat-square\&logo=telegram\&logoColor=white)](https://t.me/AMGM_ru)
-
----
-
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AMG-ir\&show_icons=true\&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AMG-ir\&layout=compact)
