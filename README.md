@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Matin Ghorbani — Networking, Linux, Windows Server, Python" width="100%">
+<img src="assets/banner.svg" alt="Matin Ghorbani. Networking, Linux, Windows Server, Python." width="100%">
 
 <br>
 
@@ -13,55 +13,47 @@
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## 👋 About Me
+## About
 
-I'm a Computer Engineering student building my skills in **networking, Linux & Windows administration, virtualization, and cybersecurity** through hands-on labs and personal projects.
+I'm a Computer Engineering student building my skills in **networking, Linux and Windows administration, virtualization, and cybersecurity** through hands-on labs and personal projects.
 
-```text
-~$ cat about.txt
-role     : Computer Engineering student, Islamic Azad University
-location : Mashhad, Iran
-focus    : Networking → Linux → Windows Server → Virtualization → Cybersecurity
-learning : LPIC-2 · Cisco CCNA · CompTIA Network+
-building : Telegram bots, automation scripts, WordPress sites
-labs     : NodePair Lab, shared with Hesam Khavari
-```
+<img src="assets/terminal.svg" alt="about.txt. Role: Computer Engineering student, Islamic Azad University. Location: Mashhad, Iran. Focus: Networking, Linux, Windows Server, Virtualization, Cybersecurity. Learning: LPIC-2, Cisco CCNA, CompTIA Network+. Building: Telegram bots, automation scripts, WordPress sites. Labs: NodePair Lab, shared with Hesam Khavari." width="100%">
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## 📌 Featured Projects
+## Featured Projects
 
-<a href="https://github.com/nodepair-lab/legacy-unix-install-lab"><img src="assets/card-legacy-unix-install-lab.svg" alt="legacy-unix-install-lab — installing a classic commercial UNIX on real legacy hardware" width="100%"></a>
+<a href="https://github.com/nodepair-lab/legacy-unix-install-lab"><img src="assets/card-legacy-unix-install-lab.svg" alt="legacy-unix-install-lab: installing a classic commercial UNIX on real legacy hardware" width="100%"></a>
 
-<a href="https://github.com/nodepair-lab"><img src="assets/card-nodepair-lab.svg" alt="NodePair Lab — shared organization for hands-on Linux, networking and infrastructure labs" width="100%"></a>
+<a href="https://github.com/nodepair-lab"><img src="assets/card-nodepair-lab.svg" alt="NodePair Lab: shared organization for hands-on Linux, networking and infrastructure labs" width="100%"></a>
 
-<a href="https://github.com/AMG-ir/My-Note"><img src="assets/card-my-note.svg" alt="My-Note — personal technical knowledge base" width="100%"></a>
+<a href="https://github.com/AMG-ir/My-Note"><img src="assets/card-my-note.svg" alt="My-Note: personal technical knowledge base" width="100%"></a>
 
-<a href="https://github.com/AMG-ir/AMG-TelegramBot"><img src="assets/card-amg-telegrambot.svg" alt="AMG-TelegramBot — multifunctional Persian Telegram bot" width="100%"></a>
+<a href="https://github.com/AMG-ir/AMG-TelegramBot"><img src="assets/card-amg-telegrambot.svg" alt="AMG-TelegramBot: multifunctional Persian Telegram bot" width="100%"></a>
 
-<a href="https://github.com/AMG-ir/SpamDetectorBot"><img src="assets/card-spamdetectorbot.svg" alt="SpamDetectorBot — rule-based spam detector" width="100%"></a>
-
-<img src="assets/divider.svg" alt="" width="100%">
-
-## 🧰 Skills & Technologies
-
-<img src="assets/skills.svg" alt="Networking and systems: Cisco, Linux, Windows Server. Virtualization: VMware, KVM. Development: Python, WordPress, Telegram bots. Currently learning: LPIC-2, Cisco CCNA, CompTIA Network+" width="100%">
+<a href="https://github.com/AMG-ir/SpamDetectorBot"><img src="assets/card-spamdetectorbot.svg" alt="SpamDetectorBot: rule-based spam detector" width="100%"></a>
 
 <img src="assets/divider.svg" alt="" width="100%">
 
-## 🔧 What I'm Working On
+## Skills and Technologies
 
-* 🐧 Linux system administration and troubleshooting
-* 🌐 Networking fundamentals and Cisco technologies
-* 🪟 Windows Server administration
-* 🖥️ Virtualization with VMware and KVM
-* 🐍 Python scripting and automation
-* 🔐 Learning system and network security
-* 🤖 Building small automation tools and Telegram bots
-* 🌐 WordPress development and deployment
-* 🧪 Hands-on labs on real and legacy hardware with NodePair Lab
+<img src="assets/skills.svg" alt="Infrastructure: Cisco, Linux, Windows Server. Virtualization: VMware, KVM. Development: Python, WordPress, Telegram bots. Currently learning: LPIC-2, Cisco CCNA, CompTIA Network+." width="100%">
 
-## 🎓 Education
+<img src="assets/divider.svg" alt="" width="100%">
+
+## What I'm Working On
+
+- Linux system administration and troubleshooting
+- Networking fundamentals and Cisco technologies
+- Windows Server administration
+- Virtualization with VMware and KVM
+- Python scripting and automation
+- Learning system and network security
+- Small automation tools and Telegram bots
+- WordPress development and deployment
+- Hands-on labs on real and legacy hardware with NodePair Lab
+
+## Education
 
 **B.Sc. in Computer Engineering** (in progress)  
 Islamic Azad University

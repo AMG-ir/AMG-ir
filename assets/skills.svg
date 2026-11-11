@@ -1,44 +1,26 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="308" viewBox="0 0 1280 308" role="img" aria-label="Skills and technologies">
-  <rect width="1280" height="308" rx="22" fill="#0b1220"/>
-  <rect x="40" y="24" width="600" height="120" rx="18" fill="#0f1b30" stroke="#1e3a5f" stroke-width="1.5"/>
-  <text x="68" y="60" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2.5" fill="#67e8f9">NETWORKING &amp; SYSTEMS</text>
-  <rect x="68" y="80" width="109" height="40" rx="20" fill="#1BA0D7" fill-opacity="0.14" stroke="#1BA0D7" stroke-opacity="0.7" stroke-width="1.5"/>
-  <circle cx="88" cy="100" r="5" fill="#1BA0D7"/>
-  <text x="106" y="107" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="19" fill="#f1f5f9">Cisco</text>
-  <rect x="191" y="80" width="109" height="40" rx="20" fill="#FCC624" fill-opacity="0.14" stroke="#FCC624" stroke-opacity="0.7" stroke-width="1.5"/>
-  <circle cx="211" cy="100" r="5" fill="#FCC624"/>
-  <text x="229" y="107" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="19" fill="#f1f5f9">Linux</text>
-  <rect x="314" y="80" width="202" height="40" rx="20" fill="#3b9cff" fill-opacity="0.14" stroke="#3b9cff" stroke-opacity="0.7" stroke-width="1.5"/>
-  <circle cx="334" cy="100" r="5" fill="#3b9cff"/>
-  <text x="352" y="107" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="19" fill="#f1f5f9">Windows Server</text>
-  <rect x="660" y="24" width="600" height="120" rx="18" fill="#0f1b30" stroke="#1e3a5f" stroke-width="1.5"/>
-  <text x="688" y="60" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2.5" fill="#67e8f9">VIRTUALIZATION</text>
-  <rect x="688" y="80" width="120" height="40" rx="20" fill="#94a3b8" fill-opacity="0.14" stroke="#94a3b8" stroke-opacity="0.7" stroke-width="1.5"/>
-  <circle cx="708" cy="100" r="5" fill="#94a3b8"/>
-  <text x="726" y="107" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="19" fill="#f1f5f9">VMware</text>
-  <rect x="822" y="80" width="89" height="40" rx="20" fill="#f87171" fill-opacity="0.14" stroke="#f87171" stroke-opacity="0.7" stroke-width="1.5"/>
-  <circle cx="842" cy="100" r="5" fill="#f87171"/>
-  <text x="860" y="107" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="19" fill="#f1f5f9">KVM</text>
-  <rect x="40" y="164" width="600" height="120" rx="18" fill="#0f1b30" stroke="#1e3a5f" stroke-width="1.5"/>
-  <text x="68" y="200" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2.5" fill="#67e8f9">DEVELOPMENT</text>
-  <rect x="68" y="220" width="120" height="40" rx="20" fill="#4b8bbe" fill-opacity="0.14" stroke="#4b8bbe" stroke-opacity="0.7" stroke-width="1.5"/>
-  <circle cx="88" cy="240" r="5" fill="#4b8bbe"/>
-  <text x="106" y="247" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="19" fill="#f1f5f9">Python</text>
-  <rect x="202" y="220" width="150" height="40" rx="20" fill="#38bdf8" fill-opacity="0.14" stroke="#38bdf8" stroke-opacity="0.7" stroke-width="1.5"/>
-  <circle cx="222" cy="240" r="5" fill="#38bdf8"/>
-  <text x="240" y="247" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="19" fill="#f1f5f9">WordPress</text>
-  <rect x="366" y="220" width="191" height="40" rx="20" fill="#26A5E4" fill-opacity="0.14" stroke="#26A5E4" stroke-opacity="0.7" stroke-width="1.5"/>
-  <circle cx="386" cy="240" r="5" fill="#26A5E4"/>
-  <text x="404" y="247" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="19" fill="#f1f5f9">Telegram Bots</text>
-  <rect x="660" y="164" width="600" height="120" rx="18" fill="#0f1b30" stroke="#1e3a5f" stroke-width="1.5"/>
-  <text x="688" y="200" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" font-weight="700" letter-spacing="2.5" fill="#67e8f9">CURRENTLY LEARNING</text>
-  <rect x="688" y="220" width="120" height="40" rx="20" fill="#FCC624" fill-opacity="0.14" stroke="#FCC624" stroke-opacity="0.7" stroke-width="1.5"/>
-  <circle cx="708" cy="240" r="5" fill="#FCC624"/>
-  <text x="726" y="247" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="19" fill="#f1f5f9">LPIC-2</text>
-  <rect x="822" y="220" width="161" height="40" rx="20" fill="#1BA0D7" fill-opacity="0.14" stroke="#1BA0D7" stroke-opacity="0.7" stroke-width="1.5"/>
-  <circle cx="842" cy="240" r="5" fill="#1BA0D7"/>
-  <text x="860" y="247" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="19" fill="#f1f5f9">Cisco CCNA</text>
-  <rect x="997" y="220" width="222" height="40" rx="20" fill="#f87171" fill-opacity="0.14" stroke="#f87171" stroke-opacity="0.7" stroke-width="1.5"/>
-  <circle cx="1017" cy="240" r="5" fill="#f87171"/>
-  <text x="1035" y="247" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="19" fill="#f1f5f9">CompTIA Network+</text>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-label="Infrastructure: Cisco, Linux, Windows Server. Virtualization: VMware, KVM. Development: Python, WordPress, Telegram bots. Currently learning: LPIC-2, Cisco CCNA, CompTIA Network+.">
+<g font-family="Segoe UI, Helvetica, Arial, sans-serif">
+<g transform="translate(0,0)"><rect x="1" y="1" width="268" height="288" rx="18" fill="#121b2e" stroke="#22314d" stroke-width="2"/>
+<circle cx="38" cy="46" r="7" fill="#5ad1ff"/><text x="56" y="53" font-size="20" font-weight="800" fill="#e6edf7">Infrastructure</text>
+<rect x="28" y="88" width="212" height="46" rx="23" fill="#5ad1ff" fill-opacity="0.12" stroke="#5ad1ff" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="118" text-anchor="middle" font-size="18" fill="#f1f5f9">Cisco</text>
+<rect x="28" y="148" width="212" height="46" rx="23" fill="#5ad1ff" fill-opacity="0.12" stroke="#5ad1ff" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="178" text-anchor="middle" font-size="18" fill="#f1f5f9">Linux</text>
+<rect x="28" y="208" width="212" height="46" rx="23" fill="#5ad1ff" fill-opacity="0.12" stroke="#5ad1ff" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="238" text-anchor="middle" font-size="18" fill="#f1f5f9">Windows Server</text>
+</g>
+<g transform="translate(310,0)"><rect x="1" y="1" width="268" height="288" rx="18" fill="#121b2e" stroke="#22314d" stroke-width="2"/>
+<circle cx="38" cy="46" r="7" fill="#b6a4ff"/><text x="56" y="53" font-size="20" font-weight="800" fill="#e6edf7">Virtualization</text>
+<rect x="28" y="88" width="212" height="46" rx="23" fill="#b6a4ff" fill-opacity="0.12" stroke="#b6a4ff" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="118" text-anchor="middle" font-size="18" fill="#f1f5f9">VMware</text>
+<rect x="28" y="148" width="212" height="46" rx="23" fill="#b6a4ff" fill-opacity="0.12" stroke="#b6a4ff" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="178" text-anchor="middle" font-size="18" fill="#f1f5f9">KVM</text>
+</g>
+<g transform="translate(620,0)"><rect x="1" y="1" width="268" height="288" rx="18" fill="#121b2e" stroke="#22314d" stroke-width="2"/>
+<circle cx="38" cy="46" r="7" fill="#7ee2a8"/><text x="56" y="53" font-size="20" font-weight="800" fill="#e6edf7">Development</text>
+<rect x="28" y="88" width="212" height="46" rx="23" fill="#7ee2a8" fill-opacity="0.12" stroke="#7ee2a8" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="118" text-anchor="middle" font-size="18" fill="#f1f5f9">Python</text>
+<rect x="28" y="148" width="212" height="46" rx="23" fill="#7ee2a8" fill-opacity="0.12" stroke="#7ee2a8" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="178" text-anchor="middle" font-size="18" fill="#f1f5f9">WordPress</text>
+<rect x="28" y="208" width="212" height="46" rx="23" fill="#7ee2a8" fill-opacity="0.12" stroke="#7ee2a8" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="238" text-anchor="middle" font-size="18" fill="#f1f5f9">Telegram bots</text>
+</g>
+<g transform="translate(930,0)"><rect x="1" y="1" width="268" height="288" rx="18" fill="#121b2e" stroke="#ffd479" stroke-width="2" stroke-dasharray="8 6"/>
+<circle cx="38" cy="46" r="7" fill="#ffd479"/><text x="56" y="53" font-size="20" font-weight="800" fill="#e6edf7">Currently learning</text>
+<rect x="28" y="88" width="212" height="46" rx="23" fill="#ffd479" fill-opacity="0.12" stroke="#ffd479" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="118" text-anchor="middle" font-size="18" fill="#f1f5f9">LPIC-2</text>
+<rect x="28" y="148" width="212" height="46" rx="23" fill="#ffd479" fill-opacity="0.12" stroke="#ffd479" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="178" text-anchor="middle" font-size="18" fill="#f1f5f9">Cisco CCNA</text>
+<rect x="28" y="208" width="212" height="46" rx="23" fill="#ffd479" fill-opacity="0.12" stroke="#ffd479" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="238" text-anchor="middle" font-size="18" fill="#f1f5f9">CompTIA Network+</text>
+</g>
+</g></svg>

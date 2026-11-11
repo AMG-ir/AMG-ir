@@ -1,9 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="24" viewBox="0 0 1280 24" role="presentation">
-  <defs>
-    <linearGradient id="l" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#22d3ee" stop-opacity="0"/><stop offset="0.5" stop-color="#3b82f6"/><stop offset="1" stop-color="#8b5cf6" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <rect x="0" y="11" width="1280" height="2" fill="url(#l)"/>
-  <circle cx="640" cy="12" r="5" fill="#0b1220" stroke="#67e8f9" stroke-width="2"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="40" viewBox="0 0 1200 40" role="presentation" aria-hidden="true">
+  <line x1="80" y1="20" x2="1120" y2="20" stroke="#22314d" stroke-width="2" stroke-dasharray="6 8"/>
+  <circle cx="574" cy="20" r="7" fill="#0b1220" stroke="#5ad1ff" stroke-width="3"/>
+  <circle cx="626" cy="20" r="7" fill="#0b1220" stroke="#7ee2a8" stroke-width="3"/>
+  <line x1="581" y1="20" x2="619" y2="20" stroke="#2a4a6b" stroke-width="3"/>
+  <circle r="4" fill="#5ad1ff"><animateMotion dur="4s" repeatCount="indefinite" path="M80 20 L567 20"/></circle>
+  <circle r="4" fill="#7ee2a8"><animateMotion dur="4s" begin="-2s" repeatCount="indefinite" path="M1120 20 L633 20"/></circle>
 </svg>
