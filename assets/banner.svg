@@ -1,26 +1,84 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-label="Matin Ghorbani. Networking, Linux, Windows Server, Python.">
-  <defs>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#16223a" stroke-width="1"/></pattern>
-    <radialGradient id="glow" cx="0.5" cy="0.35" r="0.6"><stop offset="0" stop-color="#5ad1ff" stop-opacity="0.16"/><stop offset="1" stop-color="#0b1220" stop-opacity="0"/></radialGradient>
-    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#0b1220" stop-opacity="0"/><stop offset="1" stop-color="#0b1220" stop-opacity="0.9"/></linearGradient>
-  </defs>
-  <rect width="1200" height="360" fill="#0b1220"/>
-  <rect width="1200" height="360" fill="url(#grid)"/>
-  <rect width="1200" height="360" fill="url(#glow)"/>
-  <rect width="1200" height="360" fill="url(#fade)"/>
-  <text x="600" y="146" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="78" font-weight="800" fill="#e6edf7" letter-spacing="-1.5">Matin Ghorbani</text>
-  <text x="600" y="194" text-anchor="middle" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#9fb0c8">Computer Engineering student, Mashhad, Iran</text>
-  <g font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="18" text-anchor="middle">
-    <rect x="262" y="226" width="150" height="40" rx="20" fill="#121b2e" stroke="#1f4a3a"/><text x="337" y="252" fill="#7ee2a8">Networking</text>
-    <rect x="432" y="226" width="100" height="40" rx="20" fill="#121b2e" stroke="#2a4a6b"/><text x="482" y="252" fill="#5ad1ff">Linux</text>
-    <rect x="552" y="226" width="190" height="40" rx="20" fill="#121b2e" stroke="#4a4130"/><text x="647" y="252" fill="#ffd479">Windows Server</text>
-    <rect x="762" y="226" width="176" height="40" rx="20" fill="#121b2e" stroke="#3b3560"/><text x="850" y="252" fill="#b6a4ff">Virtualization</text>
-  </g>
-  <line x1="150" y1="312" x2="1050" y2="312" stroke="#2a4a6b" stroke-width="3" stroke-dasharray="10 10"/>
-  <circle cx="150" cy="312" r="24" fill="#121b2e" stroke="#5ad1ff" stroke-width="3"/><circle cx="150" cy="312" r="8" fill="#5ad1ff"/>
-  <circle cx="1050" cy="312" r="24" fill="#121b2e" stroke="#7ee2a8" stroke-width="3"/><circle cx="1050" cy="312" r="8" fill="#7ee2a8"/>
-  <text x="150" y="354" text-anchor="middle" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#9fb0c8">AMG-ir</text>
-  <text x="1050" y="354" text-anchor="middle" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#9fb0c8">nodepair-lab</text>
-  <circle r="7" fill="#5ad1ff"><animateMotion dur="3s" repeatCount="indefinite" path="M150 312 L1050 312"/></circle>
-  <circle r="7" fill="#7ee2a8"><animateMotion dur="3s" begin="-1.5s" repeatCount="indefinite" path="M1050 312 L150 312"/></circle>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Matin Ghorbani. Computer Engineering student, Mashhad, Iran. Networking, Linux, Windows Server.">
+<defs><linearGradient id="plate" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1c1e24"/><stop offset="1" stop-color="#121317"/></linearGradient></defs>
+<rect width="1200" height="340" fill="#0e0f12"/>
+<rect x="20" y="20" width="1160" height="300" rx="18" fill="url(#plate)" stroke="#2b2e36" stroke-width="2"/>
+<circle cx="48" cy="48" r="6" fill="#1f2229" stroke="#3a3e49" stroke-width="1.5"/><path d="M44.5 44.5L51.5 51.5" stroke="#3a3e49" stroke-width="1.5"/>
+<circle cx="1152" cy="48" r="6" fill="#1f2229" stroke="#3a3e49" stroke-width="1.5"/><path d="M1148.5 44.5L1155.5 51.5" stroke="#3a3e49" stroke-width="1.5"/>
+<circle cx="48" cy="292" r="6" fill="#1f2229" stroke="#3a3e49" stroke-width="1.5"/><path d="M44.5 288.5L51.5 295.5" stroke="#3a3e49" stroke-width="1.5"/>
+<circle cx="1152" cy="292" r="6" fill="#1f2229" stroke="#3a3e49" stroke-width="1.5"/><path d="M1148.5 288.5L1155.5 295.5" stroke="#3a3e49" stroke-width="1.5"/>
+<text x="72" y="92" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="15" letter-spacing="3" fill="#ffb000">NETWORKING  /  LINUX  /  WINDOWS SERVER</text>
+<text x="70" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="72" font-weight="800" fill="#ece9e1" letter-spacing="-1.5">Matin Ghorbani</text>
+<text x="72" y="212" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="25" fill="#a8a79f">Computer Engineering student</text>
+<text x="72" y="246" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="18" fill="#7d7d76">Mashhad, Iran</text>
+<text x="72" y="290" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="19" fill="#ffb000">AMG-ir# show profile</text>
+<rect x="304" y="274" width="11" height="20" fill="#ffb000"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/></rect>
+<rect x="700" y="62" width="440" height="216" rx="12" fill="#0b0c0f" stroke="#272a33" stroke-width="2"/>
+<rect x="712" y="108" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="718" y="113" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M722 132h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="720" cy="95" r="4" fill="#ffb000"/>
+<rect x="765" y="108" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="771" y="113" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M775 132h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="773" cy="95" r="4" fill="#3ddc84"><animate attributeName="opacity" values="1;0.25;1" dur="1.29s" begin="0.23s" repeatCount="indefinite"/></circle>
+<rect x="818" y="108" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="824" y="113" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M828 132h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="826" cy="95" r="4" fill="#3ddc84"/>
+<rect x="871" y="108" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="877" y="113" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M881 132h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="879" cy="95" r="4" fill="#2a2d34"/>
+<rect x="924" y="108" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="930" y="113" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M934 132h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="932" cy="95" r="4" fill="#3ddc84"><animate attributeName="opacity" values="1;0.25;1" dur="1.68s" begin="0.11s" repeatCount="indefinite"/></circle>
+<rect x="977" y="108" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="983" y="113" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M987 132h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="95" r="4" fill="#3ddc84"><animate attributeName="opacity" values="1;0.25;1" dur="1.54s" begin="0.55s" repeatCount="indefinite"/></circle>
+<rect x="1030" y="108" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="1036" y="113" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M1040 132h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="1038" cy="95" r="4" fill="#2a2d34"/>
+<rect x="1083" y="108" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="1089" y="113" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M1093 132h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="1091" cy="95" r="4" fill="#2a2d34"/>
+<rect x="712" y="182" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="718" y="187" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M722 206h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="720" cy="169" r="4" fill="#3ddc84"/>
+<rect x="765" y="182" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="771" y="187" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M775 206h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="773" cy="169" r="4" fill="#2a2d34"/>
+<rect x="818" y="182" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="824" y="187" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M828 206h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="826" cy="169" r="4" fill="#2a2d34"/>
+<rect x="871" y="182" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="877" y="187" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M881 206h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="879" cy="169" r="4" fill="#3ddc84"><animate attributeName="opacity" values="1;0.25;1" dur="0.97s" begin="0.76s" repeatCount="indefinite"/></circle>
+<rect x="924" y="182" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="930" y="187" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M934 206h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="932" cy="169" r="4" fill="#3ddc84"/>
+<rect x="977" y="182" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="983" y="187" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M987 206h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="169" r="4" fill="#2a2d34"/>
+<rect x="1030" y="182" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="1036" y="187" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M1040 206h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="1038" cy="169" r="4" fill="#3ddc84"><animate attributeName="opacity" values="1;0.25;1" dur="0.94s" begin="0.65s" repeatCount="indefinite"/></circle>
+<rect x="1083" y="182" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="1089" y="187" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M1093 206h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="1091" cy="169" r="4" fill="#2a2d34"/>
+<circle cx="724" cy="258" r="4" fill="#3ddc84"/><text x="736" y="263" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="13" fill="#a8a79f">PWR</text>
+<circle cx="808" cy="258" r="4" fill="#3ddc84"/><text x="820" y="263" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="13" fill="#a8a79f">SYS</text>
+<circle cx="892" cy="258" r="4" fill="#ffb000"/><text x="904" y="263" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="13" fill="#a8a79f">LAB</text>
+<text x="1126" y="263" text-anchor="end" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="13" fill="#7d7d76">AMG-IR / SW-01</text>
 </svg>

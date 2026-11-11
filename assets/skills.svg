@@ -1,26 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="290" viewBox="0 0 1200 290" role="img" aria-label="Infrastructure: Cisco, Linux, Windows Server. Virtualization: VMware, KVM. Development: Python, WordPress, Telegram bots. Currently learning: LPIC-2, Cisco CCNA, CompTIA Network+.">
-<g font-family="Segoe UI, Helvetica, Arial, sans-serif">
-<g transform="translate(0,0)"><rect x="1" y="1" width="268" height="288" rx="18" fill="#121b2e" stroke="#22314d" stroke-width="2"/>
-<circle cx="38" cy="46" r="7" fill="#5ad1ff"/><text x="56" y="53" font-size="20" font-weight="800" fill="#e6edf7">Infrastructure</text>
-<rect x="28" y="88" width="212" height="46" rx="23" fill="#5ad1ff" fill-opacity="0.12" stroke="#5ad1ff" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="118" text-anchor="middle" font-size="18" fill="#f1f5f9">Cisco</text>
-<rect x="28" y="148" width="212" height="46" rx="23" fill="#5ad1ff" fill-opacity="0.12" stroke="#5ad1ff" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="178" text-anchor="middle" font-size="18" fill="#f1f5f9">Linux</text>
-<rect x="28" y="208" width="212" height="46" rx="23" fill="#5ad1ff" fill-opacity="0.12" stroke="#5ad1ff" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="238" text-anchor="middle" font-size="18" fill="#f1f5f9">Windows Server</text>
-</g>
-<g transform="translate(310,0)"><rect x="1" y="1" width="268" height="288" rx="18" fill="#121b2e" stroke="#22314d" stroke-width="2"/>
-<circle cx="38" cy="46" r="7" fill="#b6a4ff"/><text x="56" y="53" font-size="20" font-weight="800" fill="#e6edf7">Virtualization</text>
-<rect x="28" y="88" width="212" height="46" rx="23" fill="#b6a4ff" fill-opacity="0.12" stroke="#b6a4ff" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="118" text-anchor="middle" font-size="18" fill="#f1f5f9">VMware</text>
-<rect x="28" y="148" width="212" height="46" rx="23" fill="#b6a4ff" fill-opacity="0.12" stroke="#b6a4ff" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="178" text-anchor="middle" font-size="18" fill="#f1f5f9">KVM</text>
-</g>
-<g transform="translate(620,0)"><rect x="1" y="1" width="268" height="288" rx="18" fill="#121b2e" stroke="#22314d" stroke-width="2"/>
-<circle cx="38" cy="46" r="7" fill="#7ee2a8"/><text x="56" y="53" font-size="20" font-weight="800" fill="#e6edf7">Development</text>
-<rect x="28" y="88" width="212" height="46" rx="23" fill="#7ee2a8" fill-opacity="0.12" stroke="#7ee2a8" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="118" text-anchor="middle" font-size="18" fill="#f1f5f9">Python</text>
-<rect x="28" y="148" width="212" height="46" rx="23" fill="#7ee2a8" fill-opacity="0.12" stroke="#7ee2a8" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="178" text-anchor="middle" font-size="18" fill="#f1f5f9">WordPress</text>
-<rect x="28" y="208" width="212" height="46" rx="23" fill="#7ee2a8" fill-opacity="0.12" stroke="#7ee2a8" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="238" text-anchor="middle" font-size="18" fill="#f1f5f9">Telegram bots</text>
-</g>
-<g transform="translate(930,0)"><rect x="1" y="1" width="268" height="288" rx="18" fill="#121b2e" stroke="#ffd479" stroke-width="2" stroke-dasharray="8 6"/>
-<circle cx="38" cy="46" r="7" fill="#ffd479"/><text x="56" y="53" font-size="20" font-weight="800" fill="#e6edf7">Currently learning</text>
-<rect x="28" y="88" width="212" height="46" rx="23" fill="#ffd479" fill-opacity="0.12" stroke="#ffd479" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="118" text-anchor="middle" font-size="18" fill="#f1f5f9">LPIC-2</text>
-<rect x="28" y="148" width="212" height="46" rx="23" fill="#ffd479" fill-opacity="0.12" stroke="#ffd479" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="178" text-anchor="middle" font-size="18" fill="#f1f5f9">Cisco CCNA</text>
-<rect x="28" y="208" width="212" height="46" rx="23" fill="#ffd479" fill-opacity="0.12" stroke="#ffd479" stroke-opacity="0.7" stroke-width="1.5"/><text x="134" y="238" text-anchor="middle" font-size="18" fill="#f1f5f9">CompTIA Network+</text>
-</g>
-</g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="352" viewBox="0 0 1200 352" role="img" aria-label="show skills. In use: Cisco, Linux, Windows Server, VMware, KVM, Python, WordPress, Telegram bots. Learning: LPIC-2, Cisco CCNA, CompTIA Network+.">
+<rect x="1" y="1" width="1198" height="350" rx="16" fill="#15171c" stroke="#272a33" stroke-width="2"/>
+<text x="32" y="40" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#ffb000">AMG-ir# show skills</text>
+<g font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="13" fill="#7d7d76" letter-spacing="2"><text x="76" y="82">INTERFACE</text><text x="290" y="82">CATEGORY</text><text x="510" y="82">STATUS</text></g>
+<line x1="40" y1="94" x2="580" y2="94" stroke="#272a33" stroke-width="2"/>
+<circle cx="54" cy="120" r="5" fill="#3ddc84"></circle>
+<text x="76" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#ece9e1">Cisco</text>
+<text x="290" y="126" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#a8a79f">Infrastructure</text>
+<text x="510" y="126" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#3ddc84">in use</text>
+<circle cx="54" cy="158" r="5" fill="#3ddc84"></circle>
+<text x="76" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#ece9e1">Linux</text>
+<text x="290" y="164" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#a8a79f">Infrastructure</text>
+<text x="510" y="164" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#3ddc84">in use</text>
+<circle cx="54" cy="196" r="5" fill="#3ddc84"></circle>
+<text x="76" y="202" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#ece9e1">Windows Server</text>
+<text x="290" y="202" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#a8a79f">Infrastructure</text>
+<text x="510" y="202" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#3ddc84">in use</text>
+<circle cx="54" cy="234" r="5" fill="#3ddc84"></circle>
+<text x="76" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#ece9e1">VMware</text>
+<text x="290" y="240" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#a8a79f">Virtualization</text>
+<text x="510" y="240" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#3ddc84">in use</text>
+<circle cx="54" cy="272" r="5" fill="#3ddc84"></circle>
+<text x="76" y="278" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#ece9e1">KVM</text>
+<text x="290" y="278" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#a8a79f">Virtualization</text>
+<text x="510" y="278" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#3ddc84">in use</text>
+<circle cx="54" cy="310" r="5" fill="#3ddc84"></circle>
+<text x="76" y="316" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#ece9e1">Python</text>
+<text x="290" y="316" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#a8a79f">Development</text>
+<text x="510" y="316" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#3ddc84">in use</text>
+<g font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="13" fill="#7d7d76" letter-spacing="2"><text x="656" y="82">INTERFACE</text><text x="870" y="82">CATEGORY</text><text x="1090" y="82">STATUS</text></g>
+<line x1="620" y1="94" x2="1160" y2="94" stroke="#272a33" stroke-width="2"/>
+<circle cx="634" cy="120" r="5" fill="#3ddc84"></circle>
+<text x="656" y="126" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#ece9e1">WordPress</text>
+<text x="870" y="126" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#a8a79f">Development</text>
+<text x="1090" y="126" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#3ddc84">in use</text>
+<circle cx="634" cy="158" r="5" fill="#3ddc84"></circle>
+<text x="656" y="164" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#ece9e1">Telegram bots</text>
+<text x="870" y="164" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#a8a79f">Development</text>
+<text x="1090" y="164" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#3ddc84">in use</text>
+<circle cx="634" cy="196" r="5" fill="#ffb000"><animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="656" y="202" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#ece9e1">LPIC-2</text>
+<text x="870" y="202" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#a8a79f">Certification</text>
+<text x="1090" y="202" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#ffb000">learning</text>
+<circle cx="634" cy="234" r="5" fill="#ffb000"><animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="656" y="240" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#ece9e1">Cisco CCNA</text>
+<text x="870" y="240" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#a8a79f">Certification</text>
+<text x="1090" y="240" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#ffb000">learning</text>
+<circle cx="634" cy="272" r="5" fill="#ffb000"><animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite"/></circle>
+<text x="656" y="278" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="19" font-weight="600" fill="#ece9e1">CompTIA Network+</text>
+<text x="870" y="278" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#a8a79f">Certification</text>
+<text x="1090" y="278" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="16" fill="#ffb000">learning</text>
+</svg>
