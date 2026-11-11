@@ -7,6 +7,7 @@
 [![Blog](https://img.shields.io/badge/Blog-Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://matin-ghorbani.hashnode.dev)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matin-ghorbani-ir)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/AMGM_ru)
+[![NodePair Lab](https://img.shields.io/badge/NodePair_Lab-Organization-0b1220?style=for-the-badge&logo=github&logoColor=5ad1ff)](https://github.com/nodepair-lab)
 
 </div>
 
@@ -23,11 +24,16 @@ location : Mashhad, Iran
 focus    : Networking → Linux → Windows Server → Virtualization → Cybersecurity
 learning : LPIC-2 · Cisco CCNA · CompTIA Network+
 building : Telegram bots, automation scripts, WordPress sites
+labs     : NodePair Lab, shared with Hesam Khavari
 ```
 
 <img src="assets/divider.svg" alt="" width="100%">
 
 ## 📌 Featured Projects
+
+<a href="https://github.com/nodepair-lab/legacy-unix-install-lab"><img src="assets/card-legacy-unix-install-lab.svg" alt="legacy-unix-install-lab — installing a classic commercial UNIX on real legacy hardware" width="100%"></a>
+
+<a href="https://github.com/nodepair-lab"><img src="assets/card-nodepair-lab.svg" alt="NodePair Lab — shared organization for hands-on Linux, networking and infrastructure labs" width="100%"></a>
 
 <a href="https://github.com/AMG-ir/My-Note"><img src="assets/card-my-note.svg" alt="My-Note — personal technical knowledge base" width="100%"></a>
 
@@ -53,6 +59,7 @@ building : Telegram bots, automation scripts, WordPress sites
 * 🔐 Learning system and network security
 * 🤖 Building small automation tools and Telegram bots
 * 🌐 WordPress development and deployment
+* 🧪 Hands-on labs on real and legacy hardware with NodePair Lab
 
 ## 🎓 Education
 

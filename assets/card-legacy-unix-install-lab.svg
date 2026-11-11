@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="168" viewBox="0 0 880 168" role="img" aria-label="legacy-unix-install-lab">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#a78bfa"/><stop offset="1" stop-color="#3b82f6"/></linearGradient>
+  </defs>
+  <rect x="1" y="1" width="878" height="166" rx="20" fill="#0f1b30" stroke="#1e3a5f" stroke-width="2"/>
+  <rect x="1" y="1" width="8" height="166" rx="4" fill="url(#g)"/>
+  <g transform="translate(40,52)">
+    <rect width="60" height="60" rx="15" fill="url(#g)"/>
+    <g fill="none" stroke="#fff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="13" y="14" width="34" height="14" rx="4"/><rect x="13" y="33" width="34" height="14" rx="4"/><path d="M20 21h.01M20 40h.01M36 21h6M36 40h6"/></g>
+  </g>
+  <text x="130" y="60" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="700" fill="#ffffff">legacy-unix-install-lab</text>
+  <text x="130" y="84" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="14" fill="#67e8f9">github.com/nodepair-lab/legacy-unix-install-lab</text>
+  <text x="130" y="112" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#cbd5e1">Installing a classic commercial UNIX on real legacy hardware, and the</text>
+  <text x="130" y="140" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="17" fill="#cbd5e1">networking problem we have not solved yet. English and Persian.</text>
+  <rect x="600" y="28" width="70" height="30" rx="15" fill="#a78bfa" fill-opacity="0.14" stroke="#a78bfa" stroke-opacity="0.7" stroke-width="1.2"/>
+  <text x="635.0" y="48" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#f1f5f9">UNIX</text>
+  <rect x="680" y="28" width="120" height="30" rx="15" fill="#34d399" fill-opacity="0.14" stroke="#34d399" stroke-opacity="0.7" stroke-width="1.2"/>
+  <text x="740.0" y="48" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#f1f5f9">Networking</text>
+  <rect x="810" y="28" width="58" height="30" rx="15" fill="#f59e0b" fill-opacity="0.14" stroke="#f59e0b" stroke-opacity="0.7" stroke-width="1.2"/>
+  <text x="839.0" y="48" text-anchor="middle" font-family="'Segoe UI','Helvetica Neue',Arial,sans-serif" font-size="15" fill="#f1f5f9">Lab</text>
+</svg>
