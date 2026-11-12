@@ -1,31 +1,36 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-label="show about. name: Matin Ghorbani. role: Computer Engineering student, Islamic Azad University. location: Mashhad, Iran. focus: Networking, Linux, Windows Server, Virtualization, Cybersecurity. learning: LPIC-2, Cisco CCNA, CompTIA Network+. building: Telegram bots, automation scripts, WordPress sites. labs: NodePair Lab, shared with Hesam Khavari">
-<rect x="1" y="1" width="1198" height="418" rx="14" fill="#0a0a0a" stroke="#272a33" stroke-width="2"/>
-<path d="M1 15Q1 1 15 1H1185Q1199 1 1199 15V44H1V15Z" fill="#1a1c22"/>
-<text x="28" y="29" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="14" fill="#a8a79f">console 0   9600 baud   8N1</text>
-<circle cx="1160" cy="23" r="5" fill="#3ddc84"/><text x="1146" y="28" text-anchor="end" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="14" fill="#a8a79f">connected</text>
-<g font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="21">
-<text x="40" y="92" fill="#ffb000">AMG-ir# <tspan fill="#ece9e1">show about</tspan></text>
-<text x="40" y="134" fill="#ffb000">name</text>
-<line x1="170" y1="128" x2="326" y2="128" stroke="#4a4a44" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>
-<text x="350" y="134" fill="#ece9e1">Matin Ghorbani</text>
-<text x="40" y="170" fill="#ffb000">role</text>
-<line x1="170" y1="164" x2="326" y2="164" stroke="#4a4a44" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>
-<text x="350" y="170" fill="#ece9e1">Computer Engineering student, Islamic Azad University</text>
-<text x="40" y="206" fill="#ffb000">location</text>
-<line x1="170" y1="200" x2="326" y2="200" stroke="#4a4a44" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>
-<text x="350" y="206" fill="#ece9e1">Mashhad, Iran</text>
-<text x="40" y="242" fill="#ffb000">focus</text>
-<line x1="170" y1="236" x2="326" y2="236" stroke="#4a4a44" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>
-<text x="350" y="242" fill="#ece9e1">Networking, Linux, Windows Server, Virtualization, Cybersecurity</text>
-<text x="40" y="278" fill="#ffb000">learning</text>
-<line x1="170" y1="272" x2="326" y2="272" stroke="#4a4a44" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>
-<text x="350" y="278" fill="#ece9e1">LPIC-2, Cisco CCNA, CompTIA Network+</text>
-<text x="40" y="314" fill="#ffb000">building</text>
-<line x1="170" y1="308" x2="326" y2="308" stroke="#4a4a44" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>
-<text x="350" y="314" fill="#ece9e1">Telegram bots, automation scripts, WordPress sites</text>
-<text x="40" y="350" fill="#ffb000">labs</text>
-<line x1="170" y1="344" x2="326" y2="344" stroke="#4a4a44" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>
-<text x="350" y="350" fill="#ece9e1">NodePair Lab, shared with Hesam Khavari</text>
-<text x="40" y="398" fill="#ffb000">AMG-ir#</text>
-<rect x="136" y="380" width="12" height="24" fill="#ffb000"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/></rect>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="456" viewBox="0 0 1200 456" role="img" aria-label="show about. name: Matin Ghorbani. role: Computer Engineering student, Islamic Azad University. location: Mashhad, Iran. focus: Networking, Linux, Windows Server, Virtualization, Cybersecurity. completed: CompTIA Network+ training course. learning: LPIC-2, Cisco CCNA. building: Telegram bots, automation scripts, WordPress sites. labs: NodePair Lab, shared with Hesam Khavari"><style>.m{font-family:Consolas,Menlo,DejaVu Sans Mono,monospace}.s{font-family:Segoe UI,Helvetica,Arial,sans-serif}</style>
+<defs><filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="2.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter><linearGradient id="hd" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#181a20"/><stop offset="1" stop-color="#181a20" stop-opacity="0.8"/></linearGradient></defs>
+<rect x="1" y="1" width="1198" height="454" rx="16" fill="#09090b" stroke="#272a33" stroke-width="2"/>
+<path d="M1 17Q1 1 17 1H1183Q1199 1 1199 17V46H1V17Z" fill="url(#hd)"/>
+<circle cx="28" cy="24" r="6" fill="#ff6b5b"/><circle cx="50" cy="24" r="6" fill="#ffb000"/><circle cx="72" cy="24" r="6" fill="#3ddc84"/>
+<text x="600" y="29" text-anchor="middle" class="m" font-size="14" fill="#a8a79f">console 0  ·  9600 baud  ·  8N1</text>
+<circle cx="1166" cy="24" r="5" fill="#3ddc84" filter="url(#glow)"/><text x="1152" y="29" text-anchor="end" class="m" font-size="14" fill="#a8a79f">connected</text>
+<g class="m" font-size="21">
+<text x="40" y="100" fill="#ffb000">AMG-ir# <tspan fill="#f1eee6">show about</tspan></text>
+<text x="40" y="144" fill="#ffb000">name</text>
+<line x1="190" y1="138" x2="326" y2="138" stroke="#4a4a44" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>
+<text x="350" y="144" fill="#f1eee6">Matin Ghorbani</text>
+<text x="40" y="180" fill="#ffb000">role</text>
+<line x1="190" y1="174" x2="326" y2="174" stroke="#4a4a44" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>
+<text x="350" y="180" fill="#f1eee6">Computer Engineering student, Islamic Azad University</text>
+<text x="40" y="216" fill="#ffb000">location</text>
+<line x1="190" y1="210" x2="326" y2="210" stroke="#4a4a44" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>
+<text x="350" y="216" fill="#f1eee6">Mashhad, Iran</text>
+<text x="40" y="252" fill="#ffb000">focus</text>
+<line x1="190" y1="246" x2="326" y2="246" stroke="#4a4a44" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>
+<text x="350" y="252" fill="#f1eee6">Networking, Linux, Windows Server, Virtualization, Cybersecurity</text>
+<text x="40" y="288" fill="#ffb000">completed</text>
+<line x1="190" y1="282" x2="326" y2="282" stroke="#4a4a44" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>
+<text x="350" y="288" fill="#3ddc84">CompTIA Network+ training course</text>
+<text x="40" y="324" fill="#ffb000">learning</text>
+<line x1="190" y1="318" x2="326" y2="318" stroke="#4a4a44" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>
+<text x="350" y="324" fill="#f1eee6">LPIC-2, Cisco CCNA</text>
+<text x="40" y="360" fill="#ffb000">building</text>
+<line x1="190" y1="354" x2="326" y2="354" stroke="#4a4a44" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>
+<text x="350" y="360" fill="#f1eee6">Telegram bots, automation scripts, WordPress sites</text>
+<text x="40" y="396" fill="#ffb000">labs</text>
+<line x1="190" y1="390" x2="326" y2="390" stroke="#4a4a44" stroke-width="2" stroke-dasharray="1 7" stroke-linecap="round"/>
+<text x="350" y="396" fill="#f1eee6">NodePair Lab, shared with Hesam Khavari</text>
+<text x="40" y="446" fill="#ffb000">AMG-ir#</text>
+<rect x="136" y="428" width="12" height="24" fill="#ffb000"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/></rect>
 </g></svg>
