@@ -16,7 +16,7 @@
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/stats-light.svg">
-  <img src="assets/stats.svg" alt="Education: Computer Engineering, B.Sc. in progress. Base: Mashhad, Iran, freelance IT. Completed: CompTIA Network+ training course. Lab: NodePair Lab with Hesam Khavari." width="100%">
+  <img src="assets/stats.svg" alt="Education: Computer Engineering, B.Sc. in progress. Base: Mashhad, Iran, freelance IT. Learning: LPIC-2 and Cisco CCNA, in progress. Lab: NodePair Lab with Hesam Khavari." width="100%">
 </picture>
 
 <picture>
@@ -30,7 +30,7 @@ I'm a Computer Engineering student building my skills in **networking, Linux and
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg">
-  <img src="assets/terminal.svg" alt="about.txt. Role: Computer Engineering student, Islamic Azad University. Location: Mashhad, Iran. Focus: Networking, Linux, Windows Server, Virtualization, Cybersecurity. Completed: CompTIA Network+ training course. Learning: LPIC-2, Cisco CCNA. Building: Telegram bots, automation scripts, WordPress sites. Labs: NodePair Lab, shared with Hesam Khavari." width="100%">
+  <img src="assets/terminal.svg" alt="about.txt. Role: Computer Engineering student, Islamic Azad University. Location: Mashhad, Iran. Focus: Networking, Linux, Windows Server, Virtualization, Cybersecurity. Learning: LPIC-2, Cisco CCNA. Building: Telegram bots, automation scripts, WordPress sites. Labs: NodePair Lab, shared with Hesam Khavari." width="100%">
 </picture>
 
 <picture>
@@ -74,7 +74,7 @@ I'm a Computer Engineering student building my skills in **networking, Linux and
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="assets/skills-light.svg">
-  <img src="assets/skills.svg" alt="Infrastructure: Cisco, Linux, Windows Server. Virtualization: VMware, KVM. Development: Python, WordPress, Telegram bots. Training: CompTIA Network+ course completed; LPIC-2 and Cisco CCNA in progress." width="100%">
+  <img src="assets/skills.svg" alt="Infrastructure: Cisco, Linux, Windows Server. Virtualization: VMware, KVM. Development: Python, WordPress, Telegram bots. Training: LPIC-2 and Cisco CCNA in progress; CompTIA Network+ course." width="100%">
 </picture>
 
 <picture>
@@ -86,7 +86,6 @@ I'm a Computer Engineering student building my skills in **networking, Linux and
 
 - Linux system administration and troubleshooting (LPIC-2)
 - Networking fundamentals and Cisco technologies (CCNA)
-- Completed the CompTIA Network+ training course
 - Windows Server administration
 - Virtualization with VMware and KVM
 - Python scripting and automation

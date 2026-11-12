@@ -1,30 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104" role="img" aria-label="Education: Computer Engineering, B.Sc. in progress. Base: Mashhad, Iran, freelance IT. Completed: CompTIA Network+ training course. Lab: NodePair Lab with Hesam Khavari."><style>.m{font-family:Consolas,Menlo,DejaVu Sans Mono,monospace}.s{font-family:Segoe UI,Helvetica,Arial,sans-serif}</style><defs><filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="2.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
-<rect x="1" y="1" width="282" height="102" rx="14" fill="#14161b" stroke="#272a33" stroke-width="2"/>
-<rect x="1" y="26" width="4" height="52" rx="2" fill="#ffb000"/>
-<circle cx="46" cy="52" r="24" fill="#0d0e12" stroke="#ffb000" stroke-opacity="0.7" stroke-width="2"/>
-<g transform="translate(46,52)" fill="none" stroke="#ffb000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M-12 -2L0 -8l12 6-12 6z"/><path d="M-7 1v6c4 3 10 3 14 0V1"/></g>
-<text x="84" y="38" class="m" font-size="12" letter-spacing="2.4" fill="#7d7d76">EDUCATION</text>
-<text x="84" y="62" class="s" font-size="17" font-weight="700" fill="#f1eee6">Computer Engineering</text>
-<text x="84" y="83" class="m" font-size="13" fill="#a8a79f">B.Sc., in progress</text>
-<rect x="307" y="1" width="282" height="102" rx="14" fill="#14161b" stroke="#272a33" stroke-width="2"/>
-<rect x="307" y="26" width="4" height="52" rx="2" fill="#ffb000"/>
-<circle cx="352" cy="52" r="24" fill="#0d0e12" stroke="#ffb000" stroke-opacity="0.7" stroke-width="2"/>
-<g transform="translate(352,52)" fill="none" stroke="#ffb000" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M0 10C-8 1-9-2-9-5a9 9 0 0118 0c0 3-1 6-9 15z"/><circle cx="0" cy="-5" r="3"/></g>
-<text x="390" y="38" class="m" font-size="12" letter-spacing="2.4" fill="#7d7d76">BASE</text>
-<text x="390" y="62" class="s" font-size="17" font-weight="700" fill="#f1eee6">Mashhad, Iran</text>
-<text x="390" y="83" class="m" font-size="13" fill="#a8a79f">Freelance IT</text>
-<rect x="613" y="1" width="282" height="102" rx="14" fill="#14161b" stroke="#272a33" stroke-width="2"/>
-<rect x="613" y="26" width="4" height="52" rx="2" fill="#3ddc84"/>
-<circle cx="658" cy="52" r="24" fill="#0d0e12" stroke="#3ddc84" stroke-opacity="0.7" stroke-width="2"/>
-<g transform="translate(658,52)" fill="none" stroke="#3ddc84" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M-9 0l6 6 12-13"/></g>
-<text x="696" y="38" class="m" font-size="12" letter-spacing="2.4" fill="#7d7d76">COMPLETED</text>
-<text x="696" y="62" class="s" font-size="17" font-weight="700" fill="#f1eee6">CompTIA Network+</text>
-<text x="696" y="83" class="m" font-size="13" fill="#3ddc84">training course</text>
-<rect x="917" y="1" width="282" height="102" rx="14" fill="#14161b" stroke="#272a33" stroke-width="2"/>
-<rect x="917" y="26" width="4" height="52" rx="2" fill="#3ddc84"/>
-<circle cx="962" cy="52" r="24" fill="#0d0e12" stroke="#3ddc84" stroke-opacity="0.7" stroke-width="2"/>
-<g transform="translate(962,52)" fill="none" stroke="#3ddc84" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><circle cx="-8" cy="0" r="4.5"/><circle cx="8" cy="0" r="4.5"/><path d="M-3.5 0h7"/></g>
-<text x="1000" y="38" class="m" font-size="12" letter-spacing="2.4" fill="#7d7d76">LAB</text>
-<text x="1000" y="62" class="s" font-size="17" font-weight="700" fill="#f1eee6">NodePair Lab</text>
-<text x="1000" y="83" class="m" font-size="13" fill="#a8a79f">with Hesam Khavari</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="104" viewBox="0 0 1200 104" role="img" aria-label="Education: Computer Engineering, B.Sc. in progress. Base: Mashhad, Iran, freelance IT. Learning: LPIC-2 and Cisco CCNA, in progress. Lab: NodePair Lab with Hesam Khavari."><style>.m{font-family:Consolas,Menlo,DejaVu Sans Mono,monospace}.s{font-family:Segoe UI,Helvetica,Arial,sans-serif}</style><defs><filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="2.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter></defs>
+<rect x="1" y="1" width="282" height="102" rx="14" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+<rect x="1" y="26" width="4" height="52" rx="2" fill="#4c9aff"/>
+<circle cx="46" cy="52" r="24" fill="#0d1117" stroke="#4c9aff" stroke-opacity="0.7" stroke-width="2"/>
+<g transform="translate(46,52)" fill="none" stroke="#4c9aff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M-12 -2L0 -8l12 6-12 6z"/><path d="M-7 1v6c4 3 10 3 14 0V1"/></g>
+<text x="84" y="38" class="m" font-size="12" letter-spacing="2.4" fill="#6e7681">EDUCATION</text>
+<text x="84" y="62" class="s" font-size="17" font-weight="700" fill="#e6edf3">Computer Engineering</text>
+<text x="84" y="83" class="m" font-size="13" fill="#9da7b3">B.Sc., in progress</text>
+<rect x="306" y="1" width="282" height="102" rx="14" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+<rect x="306" y="26" width="4" height="52" rx="2" fill="#4c9aff"/>
+<circle cx="351" cy="52" r="24" fill="#0d1117" stroke="#4c9aff" stroke-opacity="0.7" stroke-width="2"/>
+<g transform="translate(351,52)" fill="none" stroke="#4c9aff" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M0 10C-8 1-9-2-9-5a9 9 0 0118 0c0 3-1 6-9 15z"/><circle cx="0" cy="-5" r="3"/></g>
+<text x="389" y="38" class="m" font-size="12" letter-spacing="2.4" fill="#6e7681">BASE</text>
+<text x="389" y="62" class="s" font-size="17" font-weight="700" fill="#e6edf3">Mashhad, Iran</text>
+<text x="389" y="83" class="m" font-size="13" fill="#9da7b3">Freelance IT</text>
+<rect x="611" y="1" width="282" height="102" rx="14" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+<rect x="611" y="26" width="4" height="52" rx="2" fill="#3ddc84"/>
+<circle cx="656" cy="52" r="24" fill="#0d1117" stroke="#3ddc84" stroke-opacity="0.7" stroke-width="2"/>
+<g transform="translate(656,52)" fill="none" stroke="#3ddc84" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><path d="M-6 -6l-7 6 7 6M6 -6l7 6-7 6"/></g>
+<text x="694" y="38" class="m" font-size="12" letter-spacing="2.4" fill="#6e7681">LEARNING</text>
+<text x="694" y="62" class="s" font-size="17" font-weight="700" fill="#e6edf3">LPIC-2 · Cisco CCNA</text>
+<text x="694" y="83" class="m" font-size="13" fill="#3ddc84">in progress</text>
+<rect x="916" y="1" width="282" height="102" rx="14" fill="#161b22" stroke="#30363d" stroke-width="2"/>
+<rect x="916" y="26" width="4" height="52" rx="2" fill="#3ddc84"/>
+<circle cx="961" cy="52" r="24" fill="#0d1117" stroke="#3ddc84" stroke-opacity="0.7" stroke-width="2"/>
+<g transform="translate(961,52)" fill="none" stroke="#3ddc84" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round"><circle cx="-8" cy="0" r="4.5"/><circle cx="8" cy="0" r="4.5"/><path d="M-3.5 0h7"/></g>
+<text x="999" y="38" class="m" font-size="12" letter-spacing="2.4" fill="#6e7681">LAB</text>
+<text x="999" y="62" class="s" font-size="17" font-weight="700" fill="#e6edf3">NodePair Lab</text>
+<text x="999" y="83" class="m" font-size="13" fill="#9da7b3">with Hesam Khavari</text>
 </svg>

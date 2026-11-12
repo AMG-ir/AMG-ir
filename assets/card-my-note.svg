@@ -1,16 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="168" viewBox="0 0 880 168" role="img" aria-label="My-Note"><style>.m{font-family:Consolas,Menlo,DejaVu Sans Mono,monospace}.s{font-family:Segoe UI,Helvetica,Arial,sans-serif}</style><defs>
-<radialGradient id="g" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#ffb000" stop-opacity="0.22"/><stop offset="1" stop-color="#ffb000" stop-opacity="0"/></radialGradient>
-<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffb000"/><stop offset="1" stop-color="#ffb000" stop-opacity="0.25"/></linearGradient>
+<radialGradient id="g" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#4c9aff" stop-opacity="0.24"/><stop offset="1" stop-color="#4c9aff" stop-opacity="0"/></radialGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#4c9aff"/><stop offset="1" stop-color="#4c9aff" stop-opacity="0.25"/></linearGradient>
 <clipPath id="c"><rect x="1" y="1" width="878" height="166" rx="16"/></clipPath></defs>
-<rect x="1" y="1" width="878" height="166" rx="16" fill="#14161b" stroke="#272a33" stroke-width="2"/>
+<rect x="1" y="1" width="878" height="166" rx="16" fill="#161b22" stroke="#30363d" stroke-width="2"/>
 <g clip-path="url(#c)"><ellipse cx="90" cy="84" rx="300" ry="170" fill="url(#g)"/><rect x="1" y="1" width="6" height="166" fill="url(#bar)"/></g>
-<g transform="translate(36,54)"><rect width="60" height="60" rx="14" fill="#0d0e12" stroke="#ffb000" stroke-opacity="0.85" stroke-width="2"/><g fill="none" stroke="#ffb000" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="15" y="11" width="30" height="38" rx="4"/><path d="M22 23h16M22 31h16M22 39h10"/></g></g>
-<text x="124" y="60" class="s" font-size="29" font-weight="700" fill="#f1eee6">My-Note</text>
-<text x="124" y="84" class="m" font-size="14" fill="#ffb000">github.com/AMG-ir/My-Note</text>
-<text x="124" y="113" class="s" font-size="17" fill="#a8a79f">A personal technical knowledge base documenting what I study and practice:</text>
-<text x="124" y="140" class="s" font-size="17" fill="#a8a79f">Linux (LPIC), networking, Cisco, and homelab work.</text>
-<rect x="730" y="26" width="114" height="28" rx="14" fill="#0d0e12" stroke="#363a45" stroke-width="1.5"/><text x="787.0" y="45" text-anchor="middle" class="m" font-size="14" fill="#e4e1d7">Networking</text>
-<rect x="651" y="26" width="69" height="28" rx="14" fill="#0d0e12" stroke="#363a45" stroke-width="1.5"/><text x="685.5" y="45" text-anchor="middle" class="m" font-size="14" fill="#e4e1d7">Cisco</text>
-<rect x="572" y="26" width="69" height="28" rx="14" fill="#0d0e12" stroke="#363a45" stroke-width="1.5"/><text x="606.5" y="45" text-anchor="middle" class="m" font-size="14" fill="#e4e1d7">Linux</text>
-<text x="806" y="150" text-anchor="end" class="m" font-size="12" letter-spacing="2" fill="#7d7d76">OPEN</text><path d="M816 145h14m-6-6l6 6-6 6" fill="none" stroke="#ffb000" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(36,54)"><rect width="60" height="60" rx="14" fill="#0d1117" stroke="#4c9aff" stroke-opacity="0.85" stroke-width="2"/><g fill="none" stroke="#4c9aff" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="15" y="11" width="30" height="38" rx="4"/><path d="M22 23h16M22 31h16M22 39h10"/></g></g>
+<text x="124" y="60" class="s" font-size="29" font-weight="700" fill="#e6edf3">My-Note</text>
+<text x="124" y="84" class="m" font-size="14" fill="#4c9aff">github.com/AMG-ir/My-Note</text>
+<text x="124" y="113" class="s" font-size="17" fill="#9da7b3">A personal technical knowledge base documenting what I study and practice:</text>
+<text x="124" y="140" class="s" font-size="17" fill="#9da7b3">Linux (LPIC), networking, Cisco, and homelab work.</text>
+<rect x="730" y="26" width="114" height="28" rx="14" fill="#0d1117" stroke="#3d444d" stroke-width="1.5"/><text x="787.0" y="45" text-anchor="middle" class="m" font-size="14" fill="#c9d1d9">Networking</text>
+<rect x="651" y="26" width="69" height="28" rx="14" fill="#0d1117" stroke="#3d444d" stroke-width="1.5"/><text x="685.5" y="45" text-anchor="middle" class="m" font-size="14" fill="#c9d1d9">Cisco</text>
+<rect x="572" y="26" width="69" height="28" rx="14" fill="#0d1117" stroke="#3d444d" stroke-width="1.5"/><text x="606.5" y="45" text-anchor="middle" class="m" font-size="14" fill="#c9d1d9">Linux</text>
+<text x="806" y="150" text-anchor="end" class="m" font-size="12" letter-spacing="2" fill="#6e7681">OPEN</text><path d="M816 145h14m-6-6l6 6-6 6" fill="none" stroke="#4c9aff" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>

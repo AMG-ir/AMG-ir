@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="44" viewBox="0 0 1200 44" role="presentation" aria-hidden="true"><style>.m{font-family:Consolas,Menlo,DejaVu Sans Mono,monospace}.s{font-family:Segoe UI,Helvetica,Arial,sans-serif}</style>
 <defs><filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="2.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
-<linearGradient id="ln" gradientUnits="userSpaceOnUse" x1="60" y1="0" x2="1140" y2="0"><stop offset="0" stop-color="#272a33" stop-opacity="0"/><stop offset="0.25" stop-color="#272a33"/><stop offset="0.75" stop-color="#272a33"/><stop offset="1" stop-color="#272a33" stop-opacity="0"/></linearGradient></defs>
+<linearGradient id="ln" gradientUnits="userSpaceOnUse" x1="60" y1="0" x2="1140" y2="0"><stop offset="0" stop-color="#30363d" stop-opacity="0"/><stop offset="0.25" stop-color="#30363d"/><stop offset="0.75" stop-color="#30363d"/><stop offset="1" stop-color="#30363d" stop-opacity="0"/></linearGradient></defs>
 <line x1="60" y1="22" x2="1140" y2="22" stroke="url(#ln)" stroke-width="2"/>
-<rect x="530" y="7" width="140" height="30" rx="15" fill="#14161b" stroke="#272a33" stroke-width="2"/>
+<rect x="530" y="7" width="140" height="30" rx="15" fill="#161b22" stroke="#30363d" stroke-width="2"/>
 <circle cx="556" cy="22" r="4.5" fill="#3ddc84" filter="url(#glow)"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" begin="0s" repeatCount="indefinite"/></circle>
-<text x="572" y="27" class="m" font-size="14" fill="#a8a79f">link up</text>
-<circle r="3.5" fill="#ffb000" filter="url(#glow)" opacity="0"><set attributeName="opacity" to="1" begin="0s"/><animateMotion dur="5s" repeatCount="indefinite" path="M60 22 H530"/></circle>
-<circle r="3.5" fill="#ffb000" filter="url(#glow)" opacity="0"><set attributeName="opacity" to="1" begin="2.5s"/><animateMotion dur="5s" begin="2.5s" repeatCount="indefinite" path="M670 22 H1140"/></circle>
+<text x="572" y="27" class="m" font-size="14" fill="#9da7b3">link up</text>
+<circle r="3.5" fill="#4c9aff" filter="url(#glow)" opacity="0"><set attributeName="opacity" to="1" begin="0s"/><animateMotion dur="5s" repeatCount="indefinite" path="M60 22 H530"/></circle>
+<circle r="3.5" fill="#4c9aff" filter="url(#glow)" opacity="0"><set attributeName="opacity" to="1" begin="2.5s"/><animateMotion dur="5s" begin="2.5s" repeatCount="indefinite" path="M670 22 H1140"/></circle>
 </svg>
