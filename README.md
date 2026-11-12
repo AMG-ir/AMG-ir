@@ -1,6 +1,9 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="Matin Ghorbani. Networking, Linux, Windows Server, Python." width="100%">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.svg">
+  <img src="assets/banner.svg" alt="Matin Ghorbani. Networking, Linux, Windows Server, Python." width="100%">
+</picture>
 
 <br>
 
@@ -11,35 +14,68 @@
 
 </div>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img src="assets/divider.svg" alt="" width="100%">
+</picture>
 
 ## About
 
 I'm a Computer Engineering student building my skills in **networking, Linux and Windows administration, virtualization, and cybersecurity** through hands-on labs and personal projects.
 
-<img src="assets/terminal.svg" alt="about.txt. Role: Computer Engineering student, Islamic Azad University. Location: Mashhad, Iran. Focus: Networking, Linux, Windows Server, Virtualization, Cybersecurity. Learning: LPIC-2, Cisco CCNA, CompTIA Network+. Building: Telegram bots, automation scripts, WordPress sites. Labs: NodePair Lab, shared with Hesam Khavari." width="100%">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg">
+  <img src="assets/terminal.svg" alt="about.txt. Role: Computer Engineering student, Islamic Azad University. Location: Mashhad, Iran. Focus: Networking, Linux, Windows Server, Virtualization, Cybersecurity. Learning: LPIC-2, Cisco CCNA, CompTIA Network+. Building: Telegram bots, automation scripts, WordPress sites. Labs: NodePair Lab, shared with Hesam Khavari." width="100%">
+</picture>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img src="assets/divider.svg" alt="" width="100%">
+</picture>
 
 ## Featured Projects
 
-<a href="https://github.com/nodepair-lab/legacy-unix-install-lab"><img src="assets/card-legacy-unix-install-lab.svg" alt="legacy-unix-install-lab: installing a classic commercial UNIX on real legacy hardware" width="100%"></a>
+<a href="https://github.com/nodepair-lab/legacy-unix-install-lab"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-legacy-unix-install-lab-light.svg">
+  <img src="assets/card-legacy-unix-install-lab.svg" alt="legacy-unix-install-lab: installing a classic commercial UNIX on real legacy hardware" width="100%">
+</picture></a>
 
-<a href="https://github.com/nodepair-lab"><img src="assets/card-nodepair-lab.svg" alt="NodePair Lab: shared organization for hands-on Linux, networking and infrastructure labs" width="100%"></a>
+<a href="https://github.com/nodepair-lab"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-nodepair-lab-light.svg">
+  <img src="assets/card-nodepair-lab.svg" alt="NodePair Lab: shared organization for hands-on Linux, networking and infrastructure labs" width="100%">
+</picture></a>
 
-<a href="https://github.com/AMG-ir/My-Note"><img src="assets/card-my-note.svg" alt="My-Note: personal technical knowledge base" width="100%"></a>
+<a href="https://github.com/AMG-ir/My-Note"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-my-note-light.svg">
+  <img src="assets/card-my-note.svg" alt="My-Note: personal technical knowledge base" width="100%">
+</picture></a>
 
-<a href="https://github.com/AMG-ir/AMG-TelegramBot"><img src="assets/card-amg-telegrambot.svg" alt="AMG-TelegramBot: multifunctional Persian Telegram bot" width="100%"></a>
+<a href="https://github.com/AMG-ir/AMG-TelegramBot"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-amg-telegrambot-light.svg">
+  <img src="assets/card-amg-telegrambot.svg" alt="AMG-TelegramBot: multifunctional Persian Telegram bot" width="100%">
+</picture></a>
 
-<a href="https://github.com/AMG-ir/SpamDetectorBot"><img src="assets/card-spamdetectorbot.svg" alt="SpamDetectorBot: rule-based spam detector" width="100%"></a>
+<a href="https://github.com/AMG-ir/SpamDetectorBot"><picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/card-spamdetectorbot-light.svg">
+  <img src="assets/card-spamdetectorbot.svg" alt="SpamDetectorBot: rule-based spam detector" width="100%">
+</picture></a>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img src="assets/divider.svg" alt="" width="100%">
+</picture>
 
 ## Skills and Technologies
 
-<img src="assets/skills.svg" alt="Infrastructure: Cisco, Linux, Windows Server. Virtualization: VMware, KVM. Development: Python, WordPress, Telegram bots. Currently learning: LPIC-2, Cisco CCNA, CompTIA Network+." width="100%">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/skills-light.svg">
+  <img src="assets/skills.svg" alt="Infrastructure: Cisco, Linux, Windows Server. Virtualization: VMware, KVM. Development: Python, WordPress, Telegram bots. Currently learning: LPIC-2, Cisco CCNA, CompTIA Network+." width="100%">
+</picture>
 
-<img src="assets/divider.svg" alt="" width="100%">
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg">
+  <img src="assets/divider.svg" alt="" width="100%">
+</picture>
 
 ## What I'm Working On
 

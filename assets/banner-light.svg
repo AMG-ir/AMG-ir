@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-label="Matin Ghorbani. Computer Engineering student, Mashhad, Iran. Networking, Linux, Windows Server.">
+<defs><linearGradient id="plate" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fbf9f4"/><stop offset="1" stop-color="#efebe2"/></linearGradient></defs>
+<rect width="1200" height="340" fill="#f4f1ea"/>
+<rect x="20" y="20" width="1160" height="300" rx="18" fill="url(#plate)" stroke="#d5d0c4" stroke-width="2"/>
+<circle cx="48" cy="48" r="6" fill="#e4dfd3" stroke="#c9c3b4" stroke-width="1.5"/><path d="M44.5 44.5L51.5 51.5" stroke="#c9c3b4" stroke-width="1.5"/>
+<circle cx="1152" cy="48" r="6" fill="#e4dfd3" stroke="#c9c3b4" stroke-width="1.5"/><path d="M1148.5 44.5L1155.5 51.5" stroke="#c9c3b4" stroke-width="1.5"/>
+<circle cx="48" cy="292" r="6" fill="#e4dfd3" stroke="#c9c3b4" stroke-width="1.5"/><path d="M44.5 288.5L51.5 295.5" stroke="#c9c3b4" stroke-width="1.5"/>
+<circle cx="1152" cy="292" r="6" fill="#e4dfd3" stroke="#c9c3b4" stroke-width="1.5"/><path d="M1148.5 288.5L1155.5 295.5" stroke="#c9c3b4" stroke-width="1.5"/>
+<text x="72" y="92" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="15" letter-spacing="3" fill="#b86e00">NETWORKING  /  LINUX  /  WINDOWS SERVER</text>
+<text x="70" y="168" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="72" font-weight="800" fill="#1d1f24" letter-spacing="-1.5">Matin Ghorbani</text>
+<text x="72" y="212" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="25" fill="#5b5a54">Computer Engineering student</text>
+<text x="72" y="246" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="18" fill="#77756c">Mashhad, Iran</text>
+<text x="72" y="290" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="19" fill="#b86e00">AMG-ir# show profile<tspan fill="#b86e00">&#160;</tspan></text>
+<rect x="304" y="274" width="11" height="20" fill="#b86e00"><animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1.2s" repeatCount="indefinite"/></rect>
+<rect x="700" y="62" width="440" height="216" rx="12" fill="#0b0c0f" stroke="#272a33" stroke-width="2"/>
+<rect x="712" y="108" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="718" y="113" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M722 132h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="720" cy="95" r="4" fill="#ffb000"/>
+<rect x="765" y="108" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="771" y="113" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M775 132h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="773" cy="95" r="4" fill="#3ddc84"><animate attributeName="opacity" values="1;0.25;1" dur="1.29s" begin="0.23s" repeatCount="indefinite"/></circle>
+<rect x="818" y="108" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="824" y="113" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M828 132h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="826" cy="95" r="4" fill="#3ddc84"/>
+<rect x="871" y="108" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="877" y="113" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M881 132h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="879" cy="95" r="4" fill="#2a2d34"/>
+<rect x="924" y="108" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="930" y="113" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M934 132h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="932" cy="95" r="4" fill="#3ddc84"><animate attributeName="opacity" values="1;0.25;1" dur="1.68s" begin="0.11s" repeatCount="indefinite"/></circle>
+<rect x="977" y="108" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="983" y="113" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M987 132h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="95" r="4" fill="#3ddc84"><animate attributeName="opacity" values="1;0.25;1" dur="1.54s" begin="0.55s" repeatCount="indefinite"/></circle>
+<rect x="1030" y="108" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="1036" y="113" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M1040 132h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="1038" cy="95" r="4" fill="#2a2d34"/>
+<rect x="1083" y="108" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="1089" y="113" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M1093 132h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="1091" cy="95" r="4" fill="#2a2d34"/>
+<rect x="712" y="182" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="718" y="187" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M722 206h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="720" cy="169" r="4" fill="#3ddc84"/>
+<rect x="765" y="182" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="771" y="187" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M775 206h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="773" cy="169" r="4" fill="#2a2d34"/>
+<rect x="818" y="182" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="824" y="187" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M828 206h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="826" cy="169" r="4" fill="#2a2d34"/>
+<rect x="871" y="182" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="877" y="187" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M881 206h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="879" cy="169" r="4" fill="#3ddc84"><animate attributeName="opacity" values="1;0.25;1" dur="0.97s" begin="0.76s" repeatCount="indefinite"/></circle>
+<rect x="924" y="182" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="930" y="187" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M934 206h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="932" cy="169" r="4" fill="#3ddc84"/>
+<rect x="977" y="182" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="983" y="187" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M987 206h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="985" cy="169" r="4" fill="#2a2d34"/>
+<rect x="1030" y="182" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="1036" y="187" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M1040 206h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="1038" cy="169" r="4" fill="#3ddc84"><animate attributeName="opacity" values="1;0.25;1" dur="0.94s" begin="0.65s" repeatCount="indefinite"/></circle>
+<rect x="1083" y="182" width="40" height="34" rx="4" fill="#050607" stroke="#3a3e49" stroke-width="1.5"/>
+<rect x="1089" y="187" width="28" height="14" rx="2" fill="#20232a"/>
+<path d="M1093 206h20" stroke="#2c3038" stroke-width="2" stroke-linecap="round"/>
+<circle cx="1091" cy="169" r="4" fill="#2a2d34"/>
+<circle cx="724" cy="258" r="4" fill="#3ddc84"/><text x="736" y="263" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="13" fill="#a8a79f">PWR</text>
+<circle cx="808" cy="258" r="4" fill="#3ddc84"/><text x="820" y="263" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="13" fill="#a8a79f">SYS</text>
+<circle cx="892" cy="258" r="4" fill="#ffb000"/><text x="904" y="263" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="13" fill="#a8a79f">LAB</text>
+<text x="1126" y="263" text-anchor="end" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="13" fill="#7d7d76">AMG-IR / SW-01</text>
+</svg>

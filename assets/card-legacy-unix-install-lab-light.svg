@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="168" viewBox="0 0 880 168" role="img" aria-label="legacy-unix-install-lab">
+<rect x="1" y="1" width="878" height="166" rx="16" fill="#fbf9f4" stroke="#d5d0c4" stroke-width="2"/>
+<g transform="translate(36,54)"><rect width="60" height="60" rx="12" fill="#f1eee6" stroke="#14a35c" stroke-opacity="0.8" stroke-width="2"/><g fill="none" stroke="#14a35c" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="13" y="14" width="34" height="14" rx="4"/><rect x="13" y="33" width="34" height="14" rx="4"/><path d="M20 21h.01M20 40h.01M36 21h6M36 40h6"/></g></g>
+<text x="124" y="60" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="29" font-weight="700" fill="#1d1f24">legacy-unix-install-lab</text>
+<text x="124" y="84" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="14" fill="#b86e00">github.com/nodepair-lab/legacy-unix-install-lab</text>
+<text x="124" y="113" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#5b5a54">Installing a classic commercial UNIX on real legacy hardware, and the</text>
+<text x="124" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#5b5a54">networking problem we have not solved yet. English and Persian.</text>
+<rect x="730" y="26" width="114" height="28" rx="6" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/><text x="787.0" y="45" text-anchor="middle" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="14" fill="#3b3a35">Networking</text>
+<rect x="660" y="26" width="60" height="28" rx="6" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/><text x="690.0" y="45" text-anchor="middle" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="14" fill="#3b3a35">UNIX</text>
+</svg>

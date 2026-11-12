@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="168" viewBox="0 0 880 168" role="img" aria-label="My-Note">
+<rect x="1" y="1" width="878" height="166" rx="16" fill="#fbf9f4" stroke="#d5d0c4" stroke-width="2"/>
+<g transform="translate(36,54)"><rect width="60" height="60" rx="12" fill="#f1eee6" stroke="#b86e00" stroke-opacity="0.8" stroke-width="2"/><g fill="none" stroke="#b86e00" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><rect x="15" y="11" width="30" height="38" rx="4"/><path d="M22 23h16M22 31h16M22 39h10"/></g></g>
+<text x="124" y="60" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="29" font-weight="700" fill="#1d1f24">My-Note</text>
+<text x="124" y="84" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="14" fill="#b86e00">github.com/AMG-ir/My-Note</text>
+<text x="124" y="113" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#5b5a54">A personal technical knowledge base documenting what I study and practice:</text>
+<text x="124" y="140" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="17" fill="#5b5a54">Linux (LPIC), networking, Cisco, and homelab work.</text>
+<rect x="730" y="26" width="114" height="28" rx="6" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/><text x="787.0" y="45" text-anchor="middle" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="14" fill="#3b3a35">Networking</text>
+<rect x="651" y="26" width="69" height="28" rx="6" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/><text x="685.5" y="45" text-anchor="middle" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="14" fill="#3b3a35">Cisco</text>
+<rect x="572" y="26" width="69" height="28" rx="6" fill="#f1eee6" stroke="#c9c3b4" stroke-width="1.5"/><text x="606.5" y="45" text-anchor="middle" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="14" fill="#3b3a35">Linux</text>
+</svg>
