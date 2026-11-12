@@ -1,6 +1,10 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="40" viewBox="0 0 1200 40" role="presentation" aria-hidden="true">
-  <line x1="80" y1="20" x2="1120" y2="20" stroke="#d5d0c4" stroke-width="2"/>
-  <rect x="520" y="6" width="160" height="28" rx="14" fill="#fbf9f4" stroke="#d5d0c4" stroke-width="2"/>
-  <circle cx="546" cy="20" r="4.5" fill="#14a35c"><animate attributeName="opacity" values="1;0.3;1" dur="1.6s" repeatCount="indefinite"/></circle>
-  <text x="562" y="25" font-family="Consolas, Menlo, DejaVu Sans Mono, monospace" font-size="14" fill="#5b5a54">link up</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="44" viewBox="0 0 1200 44" role="presentation" aria-hidden="true"><style>.m{font-family:Consolas,Menlo,DejaVu Sans Mono,monospace}.s{font-family:Segoe UI,Helvetica,Arial,sans-serif}</style>
+<defs><filter id="glow" x="-100%" y="-100%" width="300%" height="300%"><feGaussianBlur stdDeviation="2.6" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<linearGradient id="ln" gradientUnits="userSpaceOnUse" x1="60" y1="0" x2="1140" y2="0"><stop offset="0" stop-color="#d5d0c4" stop-opacity="0"/><stop offset="0.25" stop-color="#d5d0c4"/><stop offset="0.75" stop-color="#d5d0c4"/><stop offset="1" stop-color="#d5d0c4" stop-opacity="0"/></linearGradient></defs>
+<line x1="60" y1="22" x2="1140" y2="22" stroke="url(#ln)" stroke-width="2"/>
+<rect x="530" y="7" width="140" height="30" rx="15" fill="#fbf9f4" stroke="#d5d0c4" stroke-width="2"/>
+<circle cx="556" cy="22" r="4.5" fill="#14a35c" filter="url(#glow)"><animate attributeName="opacity" values="1;0.25;1" dur="1.6s" begin="0s" repeatCount="indefinite"/></circle>
+<text x="572" y="27" class="m" font-size="14" fill="#5b5a54">link up</text>
+<circle r="3.5" fill="#b86e00" filter="url(#glow)" opacity="0"><set attributeName="opacity" to="1" begin="0s"/><animateMotion dur="5s" repeatCount="indefinite" path="M60 22 H530"/></circle>
+<circle r="3.5" fill="#b86e00" filter="url(#glow)" opacity="0"><set attributeName="opacity" to="1" begin="2.5s"/><animateMotion dur="5s" begin="2.5s" repeatCount="indefinite" path="M670 22 H1140"/></circle>
 </svg>
