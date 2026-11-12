@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="168" viewBox="0 0 880 168" role="img" aria-label="SpamDetectorBot"><style>.m{font-family:Consolas,Menlo,DejaVu Sans Mono,monospace}.s{font-family:Segoe UI,Helvetica,Arial,sans-serif}</style><defs>
-<radialGradient id="g" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#b86e00" stop-opacity="0.2"/><stop offset="1" stop-color="#b86e00" stop-opacity="0"/></radialGradient>
-<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#b86e00"/><stop offset="1" stop-color="#b86e00" stop-opacity="0.25"/></linearGradient>
+<radialGradient id="g" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#2563eb" stop-opacity="0.2"/><stop offset="1" stop-color="#2563eb" stop-opacity="0"/></radialGradient>
+<linearGradient id="bar" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2563eb"/><stop offset="1" stop-color="#2563eb" stop-opacity="0.25"/></linearGradient>
 <clipPath id="c"><rect x="1" y="1" width="878" height="166" rx="16"/></clipPath></defs>
-<rect x="1" y="1" width="878" height="166" rx="16" fill="#fbf9f4" stroke="#d5d0c4" stroke-width="2"/>
+<rect x="1" y="1" width="878" height="166" rx="16" fill="#ffffff" stroke="#d0d7de" stroke-width="2"/>
 <g clip-path="url(#c)"><ellipse cx="90" cy="84" rx="300" ry="170" fill="url(#g)"/><rect x="1" y="1" width="6" height="166" fill="url(#bar)"/></g>
-<g transform="translate(36,54)"><rect width="60" height="60" rx="14" fill="#f3f0e8" stroke="#b86e00" stroke-opacity="0.85" stroke-width="2"/><g fill="none" stroke="#b86e00" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M30 9l18 7v16c0 10-8 17-18 20-10-3-18-10-18-20V16z"/><path d="M21 31l6 6 12-13"/></g></g>
-<text x="124" y="60" class="s" font-size="29" font-weight="700" fill="#1d1f24">SpamDetectorBot</text>
-<text x="124" y="84" class="m" font-size="14" fill="#b86e00">github.com/AMG-ir/SpamDetectorBot</text>
-<text x="124" y="113" class="s" font-size="17" fill="#5b5a54">A lightweight, rule-based spam detector for incoming project bids:</text>
-<text x="124" y="140" class="s" font-size="17" fill="#5b5a54">repeated phrases, excessive links, and duplicate text.</text>
-<rect x="766" y="26" width="78" height="28" rx="14" fill="#f3f0e8" stroke="#c9c3b4" stroke-width="1.5"/><text x="805.0" y="45" text-anchor="middle" class="m" font-size="14" fill="#3b3a35">pandas</text>
-<rect x="678" y="26" width="78" height="28" rx="14" fill="#f3f0e8" stroke="#c9c3b4" stroke-width="1.5"/><text x="717.0" y="45" text-anchor="middle" class="m" font-size="14" fill="#3b3a35">Python</text>
-<text x="806" y="150" text-anchor="end" class="m" font-size="12" letter-spacing="2" fill="#77756c">OPEN</text><path d="M816 145h14m-6-6l6 6-6 6" fill="none" stroke="#b86e00" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
+<g transform="translate(36,54)"><rect width="60" height="60" rx="14" fill="#f6f8fa" stroke="#2563eb" stroke-opacity="0.85" stroke-width="2"/><g fill="none" stroke="#2563eb" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M30 9l18 7v16c0 10-8 17-18 20-10-3-18-10-18-20V16z"/><path d="M21 31l6 6 12-13"/></g></g>
+<text x="124" y="60" class="s" font-size="29" font-weight="700" fill="#1f2328">SpamDetectorBot</text>
+<text x="124" y="84" class="m" font-size="14" fill="#2563eb">github.com/AMG-ir/SpamDetectorBot</text>
+<text x="124" y="113" class="s" font-size="17" fill="#57606a">A lightweight, rule-based spam detector for incoming project bids:</text>
+<text x="124" y="140" class="s" font-size="17" fill="#57606a">repeated phrases, excessive links, and duplicate text.</text>
+<rect x="766" y="26" width="78" height="28" rx="14" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/><text x="805.0" y="45" text-anchor="middle" class="m" font-size="14" fill="#32383f">pandas</text>
+<rect x="678" y="26" width="78" height="28" rx="14" fill="#f6f8fa" stroke="#d0d7de" stroke-width="1.5"/><text x="805.0" y="45" text-anchor="middle" class="m" font-size="14" fill="#32383f">Python</text>
+<text x="806" y="150" text-anchor="end" class="m" font-size="12" letter-spacing="2" fill="#6e7781">OPEN</text><path d="M816 145h14m-6-6l6 6-6 6" fill="none" stroke="#2563eb" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
